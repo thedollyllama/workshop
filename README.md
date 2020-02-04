@@ -6,4 +6,5 @@
 
 ## Responses to readings
 1. [Blumenstock Response](https://github.com/thedollyllama/workshop-/blob/master/blumenstock.md) 
+2. [Jahan and Rosling Response](https://github.com/thedollyllama/workshop-/blob/master/Jahan.md) 
 
