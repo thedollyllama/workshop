@@ -1,6 +1,6 @@
 # Hey, read me first
 
-#### Also peep this, I can make [links](www.google.com)
+#### Also peep this, I can make [links](https://www.google.com/)
 
 # Catalog of work
 
