@@ -5,6 +5,6 @@
 # Catalog of work
 
 ## Responses to readings
-1. [Blumenstock Response](https://github.com/thedollyllama/workshop-/blob/master/blumenstock.md) 
+1. [Blumenstock Response](https://thedollyllama.github.io/workshop/blumenstock) 
 2. [Jahan and Rosling Response](https://github.com/thedollyllama/workshop-/blob/master/Jahan.md) 
 
