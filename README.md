@@ -7,5 +7,6 @@
 ## Responses to readings
 1. [Blumenstock Response](https://thedollyllama.github.io/workshop/blumenstock) 
 2. [Jahan and Rosling Response](https://thedollyllama.github.io/workshop/Jahan) 
-3. [2/17/20 Questions]
+3. [2/17/20 Questions](https://github.com/thedollyllama/workshop/blob/master/bardentedtalk.md)
+
 
