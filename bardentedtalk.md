@@ -1,0 +1,10 @@
+###### What did Barden mean by "resist fatalism"? Who was Norman Borlaug and what is the Green Revolution?
+
+When referring to the idea of "resisting fatalism" Barden is referring to the common idea that, as humans, we are trapped by the evolutionary processes that control development and are unable to break from them. Barden argues that we should break from this traditional line of thinking and uses a man named Norman Borlaug as an example. Norman Borlaug is responsible for breeding and creating high-yield, resistant varieties of wheat which allowed the world to continue to feed itself as a part of the Green Revolution. The Green Revolution refers to a period, beginning about 1950, where an abundance of new technologies and scientific discoveries lead to increased agricultural production world wide. This resulted in a boom of births as well, since people could now afford to feed themselves cheaply. 
+
+
+
+###### Why does Barden recommend resisting engineering as a policy implication? What did he mean by isomorphic mimicry? 
+
+Barden recommends resisting engineering as a foundation for policy because he believes that development needs more experimentation. He rejects the idea that there is a simple way to solve our world's development crisis, rather, he believes that with experimentation and learning we can find a variety of ways to solve the crisis. By referring to the concept of *isomorphic* *mimicry* Barden is calling back to the biological definition of when organisms evolve to looks more dangerous than they actually are. He likens this idea to when aid organizations come into a place and attempt to solve the problems by creating things that **look** like they are increasing development - however they serve no purpose and the place remains stagnant. He used the example of a police station. A building may look like a police station, call itself a police station and act like a police station - however getting that same organization to actually enforce the law is incredibly difficult.
+
