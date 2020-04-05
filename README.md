@@ -11,6 +11,7 @@
 4. [Assignment 1](https://thedollyllama.github.io/workshop/Palestine)
 5. [Stevens et. al](https://thedollyllama.github.io/workshop/Stevens)
 6. [Neives et. al](https://thedollyllama.github.io/workshop/nievesetal)
-7. [Assignment 2.](https://thedollyllama.github.io/workshop/assignment2erskine)
+7. [Assignment 2](https://thedollyllama.github.io/workshop/a2e)
+
 
 
