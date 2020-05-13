@@ -14,5 +14,6 @@
 7. [Assignment 2](https://thedollyllama.github.io/workshop/a2e)
 8. [Assignment 3](https://thedollyllama.github.io/workshop/methodology)
 9. [Abstract](https://thedollyllama.github.io/workshop/abstract)
+10. [Final Research Proposal](https://thedollyllama.github.io/workshop/coverletter)
 
 
